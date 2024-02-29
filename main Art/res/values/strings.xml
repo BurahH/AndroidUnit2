@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art</string>
+    <string name="art1">Ярмарка</string>
+    <string name="art1_artist">Кустодиев Борис Михайлович</string>
+    <string name="art2">Явление Лица И Вазы</string>
+    <string name="art2_artist">Сальвадор Дали</string>
+    <string name="art3">Юпитер И Фетида</string>
+    <string name="art3_artist">Энгр Жан Огюст Доменик</string>
+    <string name="art4">Явление Города Делфта</string>
+    <string name="art4_artist">Сальвадор Дали</string>
+    <string name="art5">Яблоня</string>
+    <string name="art5_artist">Пит Мондриан</string>
+    <string name="art6">Яблоки В Решете</string>
+    <string name="art6_artist">Кончаловский Петр Петрович</string>
+</resources>
